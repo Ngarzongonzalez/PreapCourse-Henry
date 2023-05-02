@@ -1,2 +1,2 @@
-# PreapCourse-Henry
-este es un repositorio de prueba del modulo dos
+Este proyecto es una prueba de como clonar y pegar en el escritorio
+
